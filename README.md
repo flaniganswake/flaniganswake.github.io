@@ -138,4 +138,4 @@ __[Mithril: Adaptable Security for Survivability](https://ieeexplore.ieee.org/do
 
 __[NCSA Symera: Dr Dobbs Journal](http://www.drdobbs.com/windows/ncsa-symera/184410711)__
 
-## [Random Q&A](https://github.com/flaniganswake/flaniganswake.github.io/blob/master/QA.md)
+## [Technical Q&A](https://github.com/flaniganswake/flaniganswake.github.io/blob/master/QA.md)

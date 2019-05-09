@@ -1,4 +1,4 @@
-## Random Q&A
+## Technical Q&A
 
 
 
