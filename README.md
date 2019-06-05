@@ -2,15 +2,15 @@
 
 ## Patrick Flanigan
 ## Software Engineer
-__1728 N. Wells St.__  
-__Chicago, IL 60614__  
-__312.561.8632__  
-__flaniganswake@protonmail.com__  
+__1728 N. Wells St.__
+__Chicago, IL 60614__
+__312.561.8632__
+__flaniganswake@protonmail.com__
 __[https://github.com/flaniganswake](https://github.com/flaniganswake)__
 
 ## Bio
 
-At the start of my career I was a researcher at the University of Illinois - Urbana-Champaign. I was a technical lead and architect for the Software Development Group at the National Center for Supercomputing Applications (NCSA). While there I developed an innovative distributed computing system called Symera. It leveraged network services to build dynamic, decentralized clusters as well as support libraries for porting legacy applications. I presented Symera to Microsoft as a possible replacement for their Wolfpack clustering solution. After leaving NCSA I worked for a handful of startups including an interactive, mentor-based educational company called Useractive. Here I built a web browser terminal emulator by rewriting PuTTY as a COM control, a lightweight XML-based desktop event recording system called MacroMentor, and SafePassage - an SSH-tunneling client. Useractive was acquired by O'Reilly Publishing. I then spent three years at NCSA as a network security engineer. My work focused upon Mithril - an intrusion detection and response system. I also completed research work with Software Defined Radio (SDR). Later I designed a real-time distributed performance monitoring system for Sears which handled approximately 2000 business servers. My most current position was with a Finnish company called Swap.com. I was the lead backend engineer at the warehouse in Chicago. My work included innovative UI development for merchandising, designing the shipping workflow software and building a production training and testing environment. I have always gravitated towards challenging, innovative work. I enjoy creative, collaborative environments which aspire to build exceptional and essential solutions to complex problems.
+At the start of my career I was a researcher at the University of Illinois - Urbana-Champaign. I was a technical lead and architect for the Software Development Group at the National Center for Supercomputing Applications (NCSA). While there I developed an innovative distributed computing system called Symera. It leveraged network services to build dynamic, decentralized clusters as well as support libraries for porting legacy applications. I presented Symera to Microsoft as a possible replacement for their Wolfpack clustering solution. After leaving NCSA I worked for a handful of startups including an interactive, mentor-based educational company called Useractive. Here I built a web browser terminal emulator by rewriting PuTTY as a COM control, a lightweight XML-based desktop event recording system called MacroMentor, and SafePassage - an SSH-tunneling client. Useractive was acquired by O'Reilly Publishing. I then spent three years at NCSA as a network security engineer. My work focused upon Mithril - an intrusion detection and response system. I also completed research work with Software Defined Radio (SDR). Later I designed a real-time distributed performance monitoring system for Sears which handled approximately 2000 business servers. My most current position was with a Finnish company called Swap.com. I was the lead backend engineer at the warehouse in Chicago. My work included innovative UI development for merchandising, designing the shipping workflow software and building a production training and testing environment. I have always gravitated towards challenging, innovative work. I enjoy creative, collaborative environments which aspire to build exceptional software solutions.
 
 ## Skills
 
@@ -20,7 +20,7 @@ GAE,&nbsp;&nbsp;Django,&nbsp;&nbsp;Flask,&nbsp;&nbsp;LAMP,&nbsp;&nbsp;ReactJS,&n
 
 Redis,&nbsp;&nbsp;ZeroMQ,&nbsp;&nbsp;SDR,&nbsp;&nbsp;HPC,&nbsp;&nbsp;MongoDB
 
- 
+
 ## Experience
 
 __Swap.com/Netcycler / Senior Backend Engineer__
@@ -103,7 +103,7 @@ Created HumanHelp - a distributed, real-time customer support system.
 
 **___**
 
-__National Center for Supercomputing Applications (NCSA) /   
+__National Center for Supercomputing Applications (NCSA) /
 Software Engineer/Architect__
 
 *Aug 1996 - Sep 1999   Champaign IL*
