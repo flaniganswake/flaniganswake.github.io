@@ -2,10 +2,10 @@
 
 ## Patrick Flanigan
 ## Software Engineer
-__1728 N. Wells St.__
-__Chicago, IL 60614__
-__312.561.8632__
-__flaniganswake@protonmail.com__
+__1728 N. Wells St.__  
+__Chicago, IL 60614__  
+__312.561.8632__  
+__flaniganswake@protonmail.com__  
 __[https://github.com/flaniganswake](https://github.com/flaniganswake)__
 
 ## Bio
