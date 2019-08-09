@@ -27,6 +27,8 @@ __Echo Global Logistics / Senior Software Engineer__
 
 *Sep 2014 - present   Chicago IL*
 
+**___**
+
 __Swap.com/Netcycler / Senior Backend Engineer__
 
 *Sep 2014 - Apr 2018   Chicago IL - Helsinki FN*
